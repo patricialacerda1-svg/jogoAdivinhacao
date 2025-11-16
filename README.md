@@ -39,11 +39,11 @@ Se errou → mostra mensagem de tentativa
 Em Jogar Novamente, o número secreto é recriado e a interface reinicia.
 
 📁 Estrutura do Projeto
-📦 jogo-adivinhacao
-├── index.html
-├── style.css
-├── script.js
-└── TELAJOGO.png
+📦 jogo-adivinhacao <br>
+├── index.html <br>
+├── style.css <br>
+├── script.js<br>
+└── TELAJOGO.png<br>
 
 🛠️ Tecnologias Usadas
 
