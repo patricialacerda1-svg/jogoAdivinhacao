@@ -4,6 +4,7 @@ Este é um projeto simples em HTML, CSS e JavaScript, onde o usuário deve tenta
 O jogo informa se o palpite está correto ou errado e permite reiniciar a partida.
 
 🖼️ Pré-visualização do Jogo
+/TELAJOGO.png
 
 📌 Funcionalidades
 
